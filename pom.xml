@@ -30,7 +30,7 @@
 		</dependency>
 		<dependency>
 			<groupId>uk.ac.imperial.presage2</groupId>
-			<artifactId>presage2-sqldb</artifactId>
+			<artifactId>presage2-jsondb</artifactId>
 			<version>${presage.version}</version>
 		</dependency>
 		<dependency>
